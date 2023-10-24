@@ -260,6 +260,16 @@
   .goal-percentage .form-check label {
     font-size: 18px !important;
   }
+  #macro-calculator form {
+	padding-left: 5px;
+         padding-right: 5px;
+  }
 }
+@media (max-width: 320px) {
+  #macro-calculator form {
+	padding: 0 !important
+  }
+}
+
 
 
