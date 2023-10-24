@@ -267,7 +267,7 @@
 }
 @media (max-width: 320px) {
   #macro-calculator form {
-	padding: 0 !important
+	padding: 0 !important;
   }
 }
 
