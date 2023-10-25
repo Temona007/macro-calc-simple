@@ -104,6 +104,8 @@
 }*/
 #userSex label {
   width: 49%;
+  margin-left: 0;
+  margin-right: 0;
 }
 .form-check-input:checked {
     background-color: #b8a76f;
